@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h2> Edwin here.</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 <ul>
@@ -17,6 +17,7 @@
 <li>🔧 &nbsp; Git | Markdown</li>
 
 </ul>
+[![edwiinsun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwiinsun&show_icons=true)](https://github.com/edwiinsun)
 <!--
 **edwiinsun/edwiinsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
