@@ -1,5 +1,5 @@
 
-<h2> Edwin here.</h2>
+<h2> Edwin here!</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 <ul>
 <li>🎓 &nbsp; <strong>Studying :</strong> Tai&#39;an</li>
