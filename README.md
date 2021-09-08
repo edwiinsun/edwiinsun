@@ -11,7 +11,7 @@
 </ul>
 <h3>🛠 Tech Stack</h3>
 <ul>
-<li>🌐 &nbsp; HTML | CSS | JavaScript | Node.js | C/C++</li>
+<li>🌐 &nbsp; HTML | CSS | JavaScript | Node.js | C/C++ | Java</li>
 <li>🔑 &nbsp; Vue </li>
 <li>🛢 &nbsp;  MySQL</li>
 <li>🔧 &nbsp; Git | Markdown</li>
