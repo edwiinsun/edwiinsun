@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 <ul>
 <li>🎓 &nbsp; <strong>Studying :</strong> Tai&#39;an</li>
-<li><strong>​ ☝️</strong> &nbsp;  <strong>Learning :</strong> Vue3 | Java | Node.js</li>
+<li><strong>​ ☝️</strong> &nbsp;  <strong>Learning :</strong> Vue3 | Java | Node.js | Go</li>
 <li>⭐️ &nbsp; <strong>Hobbies :</strong>  Music 🎧 | Movie 🎥</li>
 <li><strong>👨‍🎓</strong> &nbsp;  <strong>Pronouns :</strong> He/Him/His</li>
 <li>📫 &nbsp; <strong>Contact:</strong>  <a href='mailto:sunedwiin@gmail.com' target='_blank' class='url'>sunedwiin@gmail.com</a></li>
